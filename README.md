@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, This is me 👋
+
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![](https://komarev.com/ghpvc/?username=iddqd)
 <!--
 **ivaniddqd/ivaniddqd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
