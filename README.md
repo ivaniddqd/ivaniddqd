@@ -1,4 +1,4 @@
-# Hello, world
+# Hello, world 🖐️ 
 
 This is the README for my GitHub profile. I'm a DevOps engineer with experience
 in automation, infrastructure as code, and continuous integration and delivery.
