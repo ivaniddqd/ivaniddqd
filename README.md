@@ -21,7 +21,7 @@ and other skills:
 
 - **Programming Languages**: Bash, Python, Groovy
 - **Cloud Platforms**: AWS, Google Cloud
-- **DevOps Tools**: Docker, Jenkins, Ansible, Terraform
+- **DevOps Tools**: Docker, Jenkins, Ansible, Terraform, Gitlab CI, GitHub Actions
 - **Other Skills**: CI/CD, Git, Linux
 
 ![](https://komarev.com/ghpvc/?username=iddqd)
