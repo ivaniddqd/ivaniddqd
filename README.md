@@ -7,7 +7,7 @@ processes.
 
 ## About me
 
-I'm a DevOps engineer with 5 years of experience. I'm passionate about
+I'm a DevOps engineer with 6 years of experience. I'm passionate about
 leveraging automation to improve the software development lifecycle and
 infrastructure management.
 
