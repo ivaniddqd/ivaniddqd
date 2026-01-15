@@ -1,27 +1,31 @@
 # Hello, world 🖐️ !
 
-This is the README for my GitHub profile. I'm a DevOps engineer with experience
-in automation, infrastructure as code, and continuous integration and delivery.
-I'm passionate about optimizing and streamlining development and operations
-processes.
+**DevOps / Platform Engineer (5+ years)**  
+Terraform • CI/CD • Kubernetes (GKE) • GitOps • Observability • GCP/AWS
 
-## About me
+I build and automate cloud infrastructure, delivery pipelines, and observability
+to keep production systems reliable, scalable, and cost-efficient.
 
-I'm a DevOps engineer with 6 years of experience. I'm passionate about
-leveraging automation to improve the software development lifecycle and
-infrastructure management.
+## Focus
+- **Cloud & IaC:** Terraform, GCP/AWS, networking, access control, dev/prod separation
+- **CI/CD & Delivery:** GitHub Actions/GitLab CI/Jenkins/Bitbucket, releases, rollbacks, automation
+- **Kubernetes & GitOps:** GKE, Helm, Argo CD, controlled/auditable changes
+- **Observability:** Prometheus, Grafana, Loki, SigNoz/Datadog, alerting (Alertmanager/Slack)
+- **Cost & Reliability:** right-sizing, scaling, cost as a first-class concern
+- **Docs as Code:** MkDocs, runbooks, onboarding, architecture docs
 
-I'm currently working on automating deployment pipelines and improving
-infrastructure scalability.
+## Highlights
+- ✅ Terraform-based infrastructure automation
+- ✅ CI/CD across multiple platforms, reproducible releases + rollback
+- ✅ GitOps delivery with Argo CD
+- ✅ Full observability stacks (metrics/logs/dashboards/alerts)
+- ✅ Reliability improvements with cost control
 
-## My skills
+## Tech
+GCP/AWS • Terraform • Docker • GKE • Helm • Argo CD • GitHub Actions/GitLab CI/Jenkins/Bitbucket •  
+Prometheus • Grafana • Loki • SigNoz • Datadog • CloudWatch/Cloud Monitoring • Linux • Bash • Git • Python
 
-I'm proficient in several programming languages, cloud platforms, DevOps tools,
-and other skills:
-
-- **Programming Languages**: Bash, Python, Groovy
-- **Cloud Platforms**: AWS, Google Cloud
-- **DevOps Tools**: Docker, Jenkins, Ansible, Terraform, Gitlab CI, GitHub Actions
-- **Other Skills**: CI/CD, Git, Linux
+## Open to
+DevOps / Platform / Infrastructure / Reliability roles
 
 ![](https://komarev.com/ghpvc/?username=iddqd)
